@@ -1,0 +1,4 @@
+Comando para iniciar o git: git init.
+Comando para ver os arquivos ou os arquivos que foram modificados: git status
+Comando para fazer os commits: git commit -m "digite sua alteração".
+Comando para dar push e enviar para o repositório: git push -u origin master.
